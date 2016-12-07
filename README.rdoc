@@ -1,28 +1,7 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple Ruby in Rails application using the tutorial "Getting Started with Rails" from [RubyonRails.org](http://guides.rubyonrails.org/getting_started.html)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The application is a blog that has Articles and comments link to each other, and uses basic authentication with HTTP that anables only the person who authenticate to create, delete or update an article, or destroy a comment, for other viewers of the blog only can view all the articles and comments or write a comment of an specific article.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
