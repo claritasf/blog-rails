@@ -1,7 +1,7 @@
 == README
 
-This is a simple Ruby in Rails application using the tutorial "Getting Started with Rails" from [RubyonRails.org](http://guides.rubyonrails.org/getting_started.html)
+This is a simple Ruby in Rails application using the tutorial "Getting Started with Rails" from RubyonRails.org (http://guides.rubyonrails.org/getting_started.html)
 
-The application is a blog that has Articles and comments link to each other, and uses basic authentication with HTTP that anables only the person who authenticate to create, delete or update an article, or destroy a comment, for other viewers of the blog only can view all the articles and comments or write a comment of an specific article.
+The application is a blog that has Articles and Comments link to each other, and uses basic authentication with HTTP that enables only the person who authenticate to create, delete or update an article, or destroy a comment, for other people who acces the blog, they only can view all the articles and comments or write a comment of an specific article.
 
 
